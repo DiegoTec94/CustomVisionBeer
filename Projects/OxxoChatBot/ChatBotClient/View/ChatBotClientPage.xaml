@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             xmlns:local="clr-namespace:ChatBotClient" 
+             x:Class="ChatBotClient.ChatBotClientPage" 
+             xmlns:views="clr-namespace:ChatBotClient.View"
+             xmlns:ffimageloading="clr-namespace:FFImageLoading.Forms;assembly=FFImageLoading.Forms">
+	<ContentPage.Resources>
+        <ResourceDictionary>
+            <views:MyDataTemplateSelector x:Key="MessageTemplateSelector">
+            </views:MyDataTemplateSelector>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+
+    <StackLayout>
+        <Grid x:Name="MessageControls" RowSpacing="1" ColumnSpacing="2" Padding="10,0,10,10" BackgroundColor="#FCFAFC" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand">
+            <Grid.Padding>
+                <OnPlatform x:TypeArguments="Thickness">
+                    <OnPlatform.Platforms>
+                        <On Platform="iOS" Value="0, 20, 0, 0" />
+                        <On Platform="Android" Value="0, 0, 0, 0" />
+                    </OnPlatform.Platforms>
+                </OnPlatform>
+            </Grid.Padding>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="Auto"/>
+            </Grid.ColumnDefinitions>
+            <Image
+                Grid.Row="0"
+                Grid.ColumnSpan="2"
+                Source="oxxo.png"
+                HorizontalOptions="Center"
+                VerticalOptions="Start"
+                HeightRequest="35"
+                Aspect="AspectFit"
+                />
+            <ListView x:Name="MessagesListView"  
+                  ItemAppearing="Handle_ItemAppearing" 
+                  ItemTemplate="{StaticResource MessageTemplateSelector}" 
+                  ItemsSource="{Binding Messages}" 
+                  HasUnevenRows="True" 
+                  ItemSelected="MyListView_OnItemSelected" 
+                  ItemTapped="MyListView_OnItemTapped" 
+                  SeparatorVisibility="None" 
+                  Grid.Row="1"
+                  Grid.ColumnSpan="2"
+                  VerticalOptions="FillAndExpand"/>
+            <ffimageloading:CachedImage
+                Grid.ColumnSpan="2"
+                Grid.Row="2"
+                IsVisible="{Binding TypingVisibility}"
+                HorizontalOptions="StartAndExpand"
+                VerticalOptions="Center"
+                Source="typing.gif"
+                Aspect="AspectFill"
+                WidthRequest="100"/>
+            <Entry x:Name="MessageEntry" 
+                           Completed="Handle_Completed" 
+                           Grid.Column="0"
+                           Grid.Row="3"
+                           HeightRequest="25" 
+                           Placeholder="Escribir mensaje" 
+                           Text="{Binding OutGoingText}"/>
+            <Button Clicked="Handle_Clicked" 
+                    Grid.Column="1" 
+                    Grid.Row="3"
+                    Text="Enviar" 
+                    Command="{Binding SendCommand}"/>
+        </Grid>
+    </StackLayout>
+</ContentPage>

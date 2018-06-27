@@ -1,0 +1,24 @@
+C:\Users\e-mcastillol\source\repos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer\bin\Debug\netstandard2.0\BeerMobileAnalyzer.deps.json
+C:\Users\e-mcastillol\source\repos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer\bin\Debug\netstandard2.0\BeerMobileAnalyzer.dll
+C:\Users\e-mcastillol\source\repos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer\bin\Debug\netstandard2.0\BeerMobileAnalyzer.pdb
+C:\Users\e-mcastillol\source\repos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer\obj\Debug\netstandard2.0\BeerMobileAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\e-mcastillol\source\repos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer\obj\Debug\netstandard2.0\BeerMobileAnalyzer.App.xaml.g.cs
+C:\Users\e-mcastillol\source\repos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer\obj\Debug\netstandard2.0\BeerMobileAnalyzer.MainPage.xaml.g.cs
+C:\Users\e-mcastillol\source\repos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer\obj\Debug\netstandard2.0\BeerMobileAnalyzer.AssemblyInfoInputs.cache
+C:\Users\e-mcastillol\source\repos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer\obj\Debug\netstandard2.0\BeerMobileAnalyzer.AssemblyInfo.cs
+C:\Users\e-mcastillol\source\repos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer\obj\Debug\netstandard2.0\BeerMobileAnalyzer.dll
+C:\Users\e-mcastillol\source\repos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer\obj\Debug\netstandard2.0\BeerMobileAnalyzer.pdb
+C:\Users\e-mcastillol\source\repos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer\obj\Debug\netstandard2.0\BeerMobileAnalyzer.DrawingPage.xaml.g.cs
+C:\Users\e-mcastillol\source\repos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer\obj\Debug\netstandard2.0\BeerMobileAnalyzer.csprojAssemblyReference.cache
+C:\NeorisProyectos\Neoris Proyectos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer\bin\Debug\netstandard2.0\BeerMobileAnalyzer.deps.json
+C:\NeorisProyectos\Neoris Proyectos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer\bin\Debug\netstandard2.0\BeerMobileAnalyzer.dll
+C:\NeorisProyectos\Neoris Proyectos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer\bin\Debug\netstandard2.0\BeerMobileAnalyzer.pdb
+C:\NeorisProyectos\Neoris Proyectos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer\obj\Debug\netstandard2.0\BeerMobileAnalyzer.csprojResolveAssemblyReference.cache
+C:\NeorisProyectos\Neoris Proyectos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer\obj\Debug\netstandard2.0\BeerMobileAnalyzer.csproj.CoreCompileInputs.cache
+C:\NeorisProyectos\Neoris Proyectos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer\obj\Debug\netstandard2.0\BeerMobileAnalyzer.App.xaml.g.cs
+C:\NeorisProyectos\Neoris Proyectos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer\obj\Debug\netstandard2.0\BeerMobileAnalyzer.DrawingPage.xaml.g.cs
+C:\NeorisProyectos\Neoris Proyectos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer\obj\Debug\netstandard2.0\BeerMobileAnalyzer.MainPage.xaml.g.cs
+C:\NeorisProyectos\Neoris Proyectos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer\obj\Debug\netstandard2.0\BeerMobileAnalyzer.AssemblyInfoInputs.cache
+C:\NeorisProyectos\Neoris Proyectos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer\obj\Debug\netstandard2.0\BeerMobileAnalyzer.AssemblyInfo.cs
+C:\NeorisProyectos\Neoris Proyectos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer\obj\Debug\netstandard2.0\BeerMobileAnalyzer.dll
+C:\NeorisProyectos\Neoris Proyectos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer\obj\Debug\netstandard2.0\BeerMobileAnalyzer.pdb

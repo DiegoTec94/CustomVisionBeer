@@ -1,0 +1,200 @@
+C:\Users\e-mcastillol\source\repos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\bin\Debug\BeerMobileAnalyzer.Android.dll
+C:\Users\e-mcastillol\source\repos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\bin\Debug\Mono.Android.pdb
+C:\Users\e-mcastillol\source\repos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\bin\Debug\mscorlib.pdb
+C:\Users\e-mcastillol\source\repos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\bin\Debug\System.Core.pdb
+C:\Users\e-mcastillol\source\repos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\bin\Debug\System.pdb
+C:\Users\e-mcastillol\source\repos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\bin\Debug\System.Xml.pdb
+C:\Users\e-mcastillol\source\repos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\bin\Debug\System.Xml.Linq.pdb
+C:\Users\e-mcastillol\source\repos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\bin\Debug\System.Data.pdb
+C:\Users\e-mcastillol\source\repos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\bin\Debug\System.Numerics.pdb
+C:\Users\e-mcastillol\source\repos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\bin\Debug\System.Transactions.pdb
+C:\Users\e-mcastillol\source\repos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\bin\Debug\Mono.Security.pdb
+C:\Users\e-mcastillol\source\repos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\bin\Debug\System.IO.Compression.pdb
+C:\Users\e-mcastillol\source\repos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\bin\Debug\System.IO.Compression.FileSystem.pdb
+C:\Users\e-mcastillol\source\repos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\bin\Debug\System.ComponentModel.Composition.pdb
+C:\Users\e-mcastillol\source\repos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\bin\Debug\System.Net.Http.pdb
+C:\Users\e-mcastillol\source\repos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\bin\Debug\System.Runtime.Serialization.pdb
+C:\Users\e-mcastillol\source\repos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\bin\Debug\System.ServiceModel.Internals.pdb
+C:\Users\e-mcastillol\source\repos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\bin\Debug\System.Web.Services.pdb
+C:\Users\e-mcastillol\source\repos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\obj\Debug\linksrc\BeerMobileAnalyzer.pdb
+C:\Users\e-mcastillol\source\repos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\obj\Debug\linksrc\Mono.Android.pdb
+C:\Users\e-mcastillol\source\repos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\obj\Debug\linksrc\mscorlib.pdb
+C:\Users\e-mcastillol\source\repos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\obj\Debug\linksrc\System.Core.pdb
+C:\Users\e-mcastillol\source\repos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\obj\Debug\linksrc\System.pdb
+C:\Users\e-mcastillol\source\repos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\obj\Debug\linksrc\System.Xml.pdb
+C:\Users\e-mcastillol\source\repos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\obj\Debug\linksrc\System.Xml.Linq.pdb
+C:\Users\e-mcastillol\source\repos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\obj\Debug\linksrc\System.Data.pdb
+C:\Users\e-mcastillol\source\repos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\obj\Debug\linksrc\System.Numerics.pdb
+C:\Users\e-mcastillol\source\repos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\obj\Debug\linksrc\System.Transactions.pdb
+C:\Users\e-mcastillol\source\repos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\obj\Debug\linksrc\Mono.Security.pdb
+C:\Users\e-mcastillol\source\repos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\obj\Debug\linksrc\System.IO.Compression.pdb
+C:\Users\e-mcastillol\source\repos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\obj\Debug\linksrc\System.IO.Compression.FileSystem.pdb
+C:\Users\e-mcastillol\source\repos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\obj\Debug\linksrc\System.ComponentModel.Composition.pdb
+C:\Users\e-mcastillol\source\repos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\obj\Debug\linksrc\System.Net.Http.pdb
+C:\Users\e-mcastillol\source\repos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\obj\Debug\linksrc\System.Runtime.Serialization.pdb
+C:\Users\e-mcastillol\source\repos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+C:\Users\e-mcastillol\source\repos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\obj\Debug\linksrc\System.Web.Services.pdb
+C:\Users\e-mcastillol\source\repos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\bin\Debug\FormsViewGroup.dll.mdb
+C:\Users\e-mcastillol\source\repos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\bin\Debug\Plugin.Media.Abstractions.dll.mdb
+C:\Users\e-mcastillol\source\repos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\bin\Debug\Plugin.Media.dll.mdb
+C:\Users\e-mcastillol\source\repos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\bin\Debug\Plugin.Permissions.Abstractions.dll.mdb
+C:\Users\e-mcastillol\source\repos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\bin\Debug\Plugin.Permissions.dll.mdb
+C:\Users\e-mcastillol\source\repos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\bin\Debug\Xam.Plugins.ImageCropper.Droid.dll.mdb
+C:\Users\e-mcastillol\source\repos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\Users\e-mcastillol\source\repos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\e-mcastillol\source\repos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\e-mcastillol\source\repos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\obj\Debug\linksrc\BeerMobileAnalyzer.Android.dll.mdb
+C:\Users\e-mcastillol\source\repos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\obj\Debug\linksrc\FormsViewGroup.dll.mdb
+C:\Users\e-mcastillol\source\repos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\obj\Debug\linksrc\Plugin.Media.Abstractions.dll.mdb
+C:\Users\e-mcastillol\source\repos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\obj\Debug\linksrc\Plugin.Media.dll.mdb
+C:\Users\e-mcastillol\source\repos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\obj\Debug\linksrc\Plugin.Permissions.Abstractions.dll.mdb
+C:\Users\e-mcastillol\source\repos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\obj\Debug\linksrc\Plugin.Permissions.dll.mdb
+C:\Users\e-mcastillol\source\repos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\obj\Debug\linksrc\Xam.Plugins.ImageCropper.Droid.dll.mdb
+C:\Users\e-mcastillol\source\repos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\obj\Debug\linksrc\Xamarin.Forms.Core.dll.mdb
+C:\Users\e-mcastillol\source\repos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\obj\Debug\linksrc\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\e-mcastillol\source\repos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\obj\Debug\linksrc\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\e-mcastillol\source\repos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\bin\Debug\BeerMobileAnalyzer.Android.pdb
+C:\Users\e-mcastillol\source\repos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\bin\Debug\com.companyname.BeerMobileAnalyzer.apk
+C:\Users\e-mcastillol\source\repos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\bin\Debug\com.companyname.BeerMobileAnalyzer-Signed.apk
+C:\Users\e-mcastillol\source\repos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\bin\Debug\BeerMobileAnalyzer.dll
+C:\Users\e-mcastillol\source\repos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\bin\Debug\Xam.Plugins.ImageCropper.Droid.dll
+C:\Users\e-mcastillol\source\repos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\bin\Debug\Xamarin.Android.Support.Exif.dll
+C:\Users\e-mcastillol\source\repos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\bin\Debug\Xam.Plugins.ImageCropper.Droid.pdb
+C:\Users\e-mcastillol\source\repos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\bin\Debug\BeerMobileAnalyzer.pdb
+C:\Users\e-mcastillol\source\repos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\obj\Debug\BeerMobileAnalyzer.Android.csproj.CoreCompileInputs.cache
+C:\Users\e-mcastillol\source\repos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\obj\Debug\BeerMobileAnalyzer.Android.csproj.CopyComplete
+C:\Users\e-mcastillol\source\repos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\obj\Debug\BeerMobileAnalyzer.Android.dll
+C:\Users\e-mcastillol\source\repos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\obj\Debug\BeerMobileAnalyzer.Android.pdb
+C:\Users\e-mcastillol\source\repos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\obj\Debug\android\bin\com.companyname.BeerMobileAnalyzer.apk
+C:\Users\e-mcastillol\source\repos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\obj\Debug\res\drawable\icon.png
+C:\Users\e-mcastillol\source\repos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\e-mcastillol\source\repos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\e-mcastillol\source\repos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\e-mcastillol\source\repos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\obj\Debug\res\layout\tabbar.xml
+C:\Users\e-mcastillol\source\repos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\obj\Debug\res\layout\toolbar.xml
+C:\Users\e-mcastillol\source\repos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\obj\Debug\res\values\styles.xml
+C:\Users\e-mcastillol\source\repos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\obj\Debug\R.cs.flag
+C:\Users\e-mcastillol\source\repos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\obj\Debug\uploadflags.txt
+C:\Users\e-mcastillol\source\repos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\bin\Debug\BeerMobileAnalyzer.Android.dll.mdb
+C:\Users\e-mcastillol\source\repos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\obj\Debug\android\assets\BeerMobileAnalyzer.Android.dll.mdb
+C:\Users\e-mcastillol\source\repos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\Users\e-mcastillol\source\repos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\obj\Debug\android\assets\Plugin.Media.Abstractions.dll.mdb
+C:\Users\e-mcastillol\source\repos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\obj\Debug\android\assets\Plugin.Media.dll.mdb
+C:\Users\e-mcastillol\source\repos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\obj\Debug\android\assets\Plugin.Permissions.Abstractions.dll.mdb
+C:\Users\e-mcastillol\source\repos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\obj\Debug\android\assets\Plugin.Permissions.dll.mdb
+C:\Users\e-mcastillol\source\repos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\obj\Debug\android\assets\Xam.Plugins.ImageCropper.Droid.dll.mdb
+C:\Users\e-mcastillol\source\repos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Users\e-mcastillol\source\repos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\e-mcastillol\source\repos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\e-mcastillol\source\repos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\obj\Debug\android\assets\BeerMobileAnalyzer.pdb
+C:\Users\e-mcastillol\source\repos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\obj\Debug\android\assets\Mono.Android.pdb
+C:\Users\e-mcastillol\source\repos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\obj\Debug\android\assets\Mono.Security.pdb
+C:\Users\e-mcastillol\source\repos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\obj\Debug\android\assets\mscorlib.pdb
+C:\Users\e-mcastillol\source\repos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\obj\Debug\android\assets\System.ComponentModel.Composition.pdb
+C:\Users\e-mcastillol\source\repos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\obj\Debug\android\assets\System.Core.pdb
+C:\Users\e-mcastillol\source\repos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\obj\Debug\android\assets\System.Data.pdb
+C:\Users\e-mcastillol\source\repos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\obj\Debug\android\assets\System.IO.Compression.FileSystem.pdb
+C:\Users\e-mcastillol\source\repos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\obj\Debug\android\assets\System.IO.Compression.pdb
+C:\Users\e-mcastillol\source\repos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\obj\Debug\android\assets\System.Net.Http.pdb
+C:\Users\e-mcastillol\source\repos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\obj\Debug\android\assets\System.Numerics.pdb
+C:\Users\e-mcastillol\source\repos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\obj\Debug\android\assets\System.pdb
+C:\Users\e-mcastillol\source\repos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\obj\Debug\android\assets\System.Runtime.Serialization.pdb
+C:\Users\e-mcastillol\source\repos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\obj\Debug\android\assets\System.ServiceModel.Internals.pdb
+C:\Users\e-mcastillol\source\repos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\obj\Debug\android\assets\System.Transactions.pdb
+C:\Users\e-mcastillol\source\repos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\obj\Debug\android\assets\System.Web.Services.pdb
+C:\Users\e-mcastillol\source\repos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\obj\Debug\android\assets\System.Xml.Linq.pdb
+C:\Users\e-mcastillol\source\repos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\obj\Debug\android\assets\System.Xml.pdb
+C:\Users\e-mcastillol\source\repos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\obj\Debug\BeerMobileAnalyzer.Android.csprojAssemblyReference.cache
+C:\Users\e-mcastillol\source\repos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\obj\Debug\R.txt
+C:\NeorisProyectos\Neoris Proyectos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\bin\Debug\BeerMobileAnalyzer.Android.dll
+C:\NeorisProyectos\Neoris Proyectos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\bin\Debug\BeerMobileAnalyzer.Android.pdb
+C:\NeorisProyectos\Neoris Proyectos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\bin\Debug\com.companyname.BeerMobileAnalyzer.apk
+C:\NeorisProyectos\Neoris Proyectos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\bin\Debug\com.companyname.BeerMobileAnalyzer-Signed.apk
+C:\NeorisProyectos\Neoris Proyectos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\bin\Debug\BeerMobileAnalyzer.dll
+C:\NeorisProyectos\Neoris Proyectos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\bin\Debug\Xam.Plugins.ImageCropper.Droid.dll
+C:\NeorisProyectos\Neoris Proyectos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\bin\Debug\Xamarin.Android.Support.Exif.dll
+C:\NeorisProyectos\Neoris Proyectos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\bin\Debug\BeerMobileAnalyzer.pdb
+C:\NeorisProyectos\Neoris Proyectos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\bin\Debug\Xam.Plugins.ImageCropper.Droid.pdb
+C:\NeorisProyectos\Neoris Proyectos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\obj\Debug\BeerMobileAnalyzer.Android.csprojResolveAssemblyReference.cache
+C:\NeorisProyectos\Neoris Proyectos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\obj\Debug\BeerMobileAnalyzer.Android.csproj.CoreCompileInputs.cache
+C:\NeorisProyectos\Neoris Proyectos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\obj\Debug\BeerMobileAnalyzer.Android.dll
+C:\NeorisProyectos\Neoris Proyectos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\obj\Debug\BeerMobileAnalyzer.Android.pdb
+C:\NeorisProyectos\Neoris Proyectos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\obj\Debug\android\bin\com.companyname.BeerMobileAnalyzer.apk
+C:\NeorisProyectos\Neoris Proyectos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\obj\Debug\res\drawable\icon.png
+C:\NeorisProyectos\Neoris Proyectos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\obj\Debug\res\drawable-hdpi\icon.png
+C:\NeorisProyectos\Neoris Proyectos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\obj\Debug\res\drawable-xhdpi\icon.png
+C:\NeorisProyectos\Neoris Proyectos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\NeorisProyectos\Neoris Proyectos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\obj\Debug\res\layout\tabbar.xml
+C:\NeorisProyectos\Neoris Proyectos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\obj\Debug\res\layout\toolbar.xml
+C:\NeorisProyectos\Neoris Proyectos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\obj\Debug\res\values\styles.xml
+C:\NeorisProyectos\Neoris Proyectos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\obj\Debug\R.cs.flag
+C:\NeorisProyectos\Neoris Proyectos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\obj\Debug\uploadflags.txt
+C:\NeorisProyectos\Neoris Proyectos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\bin\Debug\FormsViewGroup.dll.mdb
+C:\NeorisProyectos\Neoris Proyectos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\bin\Debug\Plugin.Media.Abstractions.dll.mdb
+C:\NeorisProyectos\Neoris Proyectos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\bin\Debug\Plugin.Media.dll.mdb
+C:\NeorisProyectos\Neoris Proyectos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\bin\Debug\Plugin.Permissions.Abstractions.dll.mdb
+C:\NeorisProyectos\Neoris Proyectos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\bin\Debug\Plugin.Permissions.dll.mdb
+C:\NeorisProyectos\Neoris Proyectos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\bin\Debug\Xam.Plugins.ImageCropper.Droid.dll.mdb
+C:\NeorisProyectos\Neoris Proyectos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\NeorisProyectos\Neoris Proyectos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\NeorisProyectos\Neoris Proyectos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\NeorisProyectos\Neoris Proyectos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\bin\Debug\BeerMobileAnalyzer.Android.dll.mdb
+C:\NeorisProyectos\Neoris Proyectos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\obj\Debug\android\assets\BeerMobileAnalyzer.Android.dll.mdb
+C:\NeorisProyectos\Neoris Proyectos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\NeorisProyectos\Neoris Proyectos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\obj\Debug\android\assets\Plugin.Media.Abstractions.dll.mdb
+C:\NeorisProyectos\Neoris Proyectos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\obj\Debug\android\assets\Plugin.Media.dll.mdb
+C:\NeorisProyectos\Neoris Proyectos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\obj\Debug\android\assets\Plugin.Permissions.Abstractions.dll.mdb
+C:\NeorisProyectos\Neoris Proyectos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\obj\Debug\android\assets\Plugin.Permissions.dll.mdb
+C:\NeorisProyectos\Neoris Proyectos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\obj\Debug\android\assets\Xam.Plugins.ImageCropper.Droid.dll.mdb
+C:\NeorisProyectos\Neoris Proyectos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\NeorisProyectos\Neoris Proyectos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\NeorisProyectos\Neoris Proyectos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\NeorisProyectos\Neoris Proyectos\BeerMobileAnalyzer\BeerMobileAnalyzer\BeerMobileAnalyzer.Android\bin\Debug\BeerMobileAnalyzer.Android.dll
+bin\Debug\Xam.Plugins.ImageCropper.Droid.dll.mdb
+bin\Debug\Mono.Android.pdb
+bin\Debug\mscorlib.pdb
+bin\Debug\System.Core.pdb
+bin\Debug\System.pdb
+bin\Debug\System.Xml.pdb
+bin\Debug\System.Xml.Linq.pdb
+bin\Debug\System.Data.pdb
+bin\Debug\System.Numerics.pdb
+bin\Debug\System.Transactions.pdb
+bin\Debug\Mono.Data.Tds.pdb
+bin\Debug\Mono.Security.pdb
+bin\Debug\System.IO.Compression.pdb
+bin\Debug\System.IO.Compression.FileSystem.pdb
+bin\Debug\System.ComponentModel.Composition.pdb
+bin\Debug\System.Net.Http.pdb
+bin\Debug\System.Runtime.Serialization.pdb
+bin\Debug\System.ServiceModel.Internals.pdb
+bin\Debug\System.Web.Services.pdb
+obj\Debug\linksrc\BeerMobileAnalyzer.Android.dll.mdb
+obj\Debug\linksrc\FormsViewGroup.dll.mdb
+obj\Debug\linksrc\Plugin.Media.Abstractions.dll.mdb
+obj\Debug\linksrc\Plugin.Media.dll.mdb
+obj\Debug\linksrc\Plugin.Permissions.Abstractions.dll.mdb
+obj\Debug\linksrc\Plugin.Permissions.dll.mdb
+obj\Debug\linksrc\Xam.Plugins.ImageCropper.Droid.dll.mdb
+obj\Debug\linksrc\Xamarin.Forms.Core.dll.mdb
+obj\Debug\linksrc\Xamarin.Forms.Platform.Android.dll.mdb
+obj\Debug\linksrc\Xamarin.Forms.Xaml.dll.mdb
+obj\Debug\linksrc\BeerMobileAnalyzer.pdb
+obj\Debug\linksrc\Mono.Android.pdb
+obj\Debug\linksrc\mscorlib.pdb
+obj\Debug\linksrc\System.Core.pdb
+obj\Debug\linksrc\System.pdb
+obj\Debug\linksrc\System.Xml.pdb
+obj\Debug\linksrc\System.Xml.Linq.pdb
+obj\Debug\linksrc\System.Data.pdb
+obj\Debug\linksrc\System.Numerics.pdb
+obj\Debug\linksrc\System.Transactions.pdb
+obj\Debug\linksrc\Mono.Data.Tds.pdb
+obj\Debug\linksrc\Mono.Security.pdb
+obj\Debug\linksrc\System.IO.Compression.pdb
+obj\Debug\linksrc\System.IO.Compression.FileSystem.pdb
+obj\Debug\linksrc\System.ComponentModel.Composition.pdb
+obj\Debug\linksrc\System.Net.Http.pdb
+obj\Debug\linksrc\System.Runtime.Serialization.pdb
+obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+obj\Debug\linksrc\System.Web.Services.pdb

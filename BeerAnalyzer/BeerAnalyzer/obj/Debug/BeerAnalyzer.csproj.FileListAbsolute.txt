@@ -1,0 +1,13 @@
+C:\Users\e-mcastillol\source\repos\BeerAnalyzer\BeerAnalyzer\bin\Debug\BeerAnalyzer.exe.config
+C:\Users\e-mcastillol\source\repos\BeerAnalyzer\BeerAnalyzer\bin\Debug\BeerAnalyzer.exe
+C:\Users\e-mcastillol\source\repos\BeerAnalyzer\BeerAnalyzer\bin\Debug\BeerAnalyzer.pdb
+C:\Users\e-mcastillol\source\repos\BeerAnalyzer\BeerAnalyzer\obj\Debug\BeerAnalyzer.Form1.resources
+C:\Users\e-mcastillol\source\repos\BeerAnalyzer\BeerAnalyzer\obj\Debug\BeerAnalyzer.Properties.Resources.resources
+C:\Users\e-mcastillol\source\repos\BeerAnalyzer\BeerAnalyzer\obj\Debug\BeerAnalyzer.csproj.GenerateResource.Cache
+C:\Users\e-mcastillol\source\repos\BeerAnalyzer\BeerAnalyzer\obj\Debug\BeerAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\e-mcastillol\source\repos\BeerAnalyzer\BeerAnalyzer\obj\Debug\BeerAnalyzer.exe
+C:\Users\e-mcastillol\source\repos\BeerAnalyzer\BeerAnalyzer\obj\Debug\BeerAnalyzer.pdb
+C:\Users\e-mcastillol\source\repos\BeerAnalyzer\BeerAnalyzer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\e-mcastillol\source\repos\BeerAnalyzer\BeerAnalyzer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\e-mcastillol\source\repos\BeerAnalyzer\BeerAnalyzer\obj\Debug\BeerAnalyzer.csproj.CopyComplete
+C:\Users\e-mcastillol\source\repos\BeerAnalyzer\BeerAnalyzer\obj\Debug\BeerAnalyzer.csprojAssemblyReference.cache
